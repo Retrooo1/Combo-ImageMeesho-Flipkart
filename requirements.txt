@@ -3,4 +3,3 @@ opencv-python==4.5.4.58
 streamlit==1.17.0
 opencv-python-headless
 pyopengl
-pyopengl-headless
